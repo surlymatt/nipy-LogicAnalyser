@@ -1,0 +1,10 @@
+cycler==0.10.0
+enum34==1.1.6
+matplotlib==2.0.2
+nidaqmx==0.5.4
+numpy==1.13.1
+prettyprint==0.1.5
+pyparsing==2.2.0
+python-dateutil==2.6.0
+pytz==2017.2
+six==1.10.0
