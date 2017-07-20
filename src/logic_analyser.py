@@ -24,6 +24,8 @@ speed = numSamples / interval
 print(round(interval,2),"seconds for", numSamples, "reads.")
 print(round(speed,1),"samples per second.")
 
+# Convert the list of lists a numpy array and add offsets to each channel
+# TODO: find a numpy way of doing this.  Maybe zip?
 traces = np.zeros((numSamples, 8), np.object)
 for n in range(numSamples):
     for m in range(8):
