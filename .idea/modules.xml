@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/niDAQmx.iml" filepath="$PROJECT_DIR$/.idea/niDAQmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/nipy_LogicAnalyser.iml" filepath="$PROJECT_DIR$/.idea/nipy_LogicAnalyser.iml" />
     </modules>
   </component>
 </project>
